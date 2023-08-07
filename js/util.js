@@ -20,4 +20,4 @@ const getId = function () {
 const newId = getId();
 const newUrl = getId();
 
-export {getRandomArrayElement, getRandomInteger, newId, newUrl};
+export { getRandomArrayElement, getRandomInteger, newId, newUrl };
